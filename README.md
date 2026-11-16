@@ -12,7 +12,7 @@ A collection of lab exercises, assignments, and practical implementations comple
 | 3.1 | [Add Two Numbers](https://github.com/sinchana-beep4/MADlab3.1-AddTwoNumbers) |
 | 3.2 | [CIE Computing](https://github.com/sinchana-beep4/MADlab3.2-cieComputing) |
 | 4 | [Checkbox & RadioButton](https://github.com/sinchana-beep4/MADlab4-Checkbox_RadioButton) |
-| 5 | [MedCare – TimePicker, DatePicker, Switch & Toggle](https://github.com/sinchana-beep4/MADlab5-MedCare-TimenDate-switch-toggle) |
+| 5 | [TimePicker, DatePicker, Switch & Toggle](https://github.com/sinchana-beep4/MADlab5-MedCare-TimenDate-switch-toggle) |
 | 6 | [Intents](https://github.com/sinchana-beep4/MADlab6-Intents) |
 | 7 | [Intent Assignment](https://github.com/sinchana-beep4/MADlab7-intentassignement) |
 | 8 | [Spinner](https://github.com/sinchana-beep4/MADlab8-spinner) |
